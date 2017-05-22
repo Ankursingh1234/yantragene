@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/images/p.png</ImageUrl>
+    <ImageUrl1>~/images/1.jpg</ImageUrl1>
+    <ImageUrl2>~/images/1.jpg</ImageUrl2>
+    <Width>300</Width>
+    <Height>50</Height>
+    <NavigateUrl>http://www.dotnetcurry.com</NavigateUrl>
+    <AlternateText>DotNetCurry Home Page</AlternateText>
+    <Impressions>40</Impressions>
+    <Keyword>small</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/images/p.png</ImageUrl>
+    <ImageUrl1>~/images/1.jpg</ImageUrl1>
+    <ImageUrl2>~/images/1.jpg</ImageUrl2>
+    <Width>300</Width>
+    <Height>50</Height>
+    <NavigateUrl>http://www.sqlservercurry.com</NavigateUrl>
+    <AlternateText>SQL Server Curry Home Page</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>small</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/images/image3.jpg</ImageUrl>
+    <ImageUrl>~/images/1.jpg</ImageUrl>
+    <ImageUrl>~/images/p.png</ImageUrl>
+    <Width>300</Width>
+    <Height>50</Height>
+    <NavigateUrl>http://www.dotnetcurry.com/writeforus.aspx</NavigateUrl>
+    <AlternateText>dotnetcurry.com Write For Us</AlternateText>
+    <Impressions>40</Impressions>
+    <Keyword>small</Keyword>
+  </Ad>
+</Advertisements>
