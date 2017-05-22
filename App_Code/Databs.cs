@@ -13,7 +13,7 @@ public class Databs
     SqlCommand cmd;
     SqlConnection con;
     SqlDataAdapter Adapter;
-    string constr = "Data Source=localhost;Initial Catalog=yantragene17;User ID=sa;Password=ankur123";
+    string constr = "Data Source=localhost;Initial Catalog=yantragene17;User ID=sa;Password=XXXXXX";
     public Databs()
     {
         //
